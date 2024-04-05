@@ -55,6 +55,13 @@ export default function Home() {
           title="Web教務システム（広瀬）"
           description="校内ネットワークからのみアクセス可能"
         />
+
+        <Card
+          href="https://github.com/raptech-jp/snct-links/"
+          title="サイトについて"
+          description="GitHubに遷移します"
+        />
+
       </div>
       <footer className="mt-auto text-sm opacity-50">
         <p className="text-center">&copy; {currentYear} Haruki Tasaka</p>
