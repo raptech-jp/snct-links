@@ -34,7 +34,7 @@ export default function Home() {
 
         <Card
           href="https://www.sendai-nct.ac.jp/student/kyuko/ku_hirose/"
-          title="休講情報（広瀬）"
+          title="休講情報"
           description="休講・授業変更の情報"
         />
 
@@ -52,8 +52,14 @@ export default function Home() {
 
         <Card
           href="https://kyomuweb-h.office.sendai-nct.ac.jp/gakusei/"
-          title="Web教務システム（広瀬）"
+          title="Web教務システム"
           description="校内ネットワークからのみアクセス可能"
+        />
+        
+        <Card
+          href="https://webclass.kosen-k.go.jp/"
+          title="WebClass"
+          description="eラーニングシステム"
         />
 
         <Card
