@@ -5,8 +5,6 @@ const Card = ({ href, title, description }: { href: string, title: string, descr
     <a
       href={href}
       className={cardClass}
-      target="_blank"
-      rel="noopener noreferrer"
     >
       <h2 className={`mb-3 text-2xl font-semibold`}>
         {title}
