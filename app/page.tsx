@@ -25,9 +25,9 @@ export default function Home() {
       <h1 className="mb-16 text-3xl font-bold">仙台高専広瀬 学生用リンク集</h1>
       <div className="mb-32 grid text-center lg:max-w-5xl lg:w-full lg:mb-0 lg:grid-cols-4 lg:text-left">
         <Card
-          href="https://www.sendai-nct.ac.jp/wp/wp-content/uploads/2024/09/R06koukijikanwari_hirose_0905.pdf"
+          href="https://www.sendai-nct.ac.jp/wp/wp-content/uploads/2025/04/R07hirosezenkijikanwari_0404.pdf"
           title="時間割"
-          description="令和6年度後期の時間割"
+          description="令和7年度前期の時間割"
         />
 
         <Card
@@ -37,9 +37,9 @@ export default function Home() {
         />
 
         <Card
-          href="https://www.sendai-nct.ac.jp/wp/wp-content/uploads/2024/03/R06gyoji-h_2024.03.27.pdf"
+          href="https://www.sendai-nct.ac.jp/wp/wp-content/uploads/2025/04/R7gyojiyoteihirose_0404.pdf"
           title="年間行事予定"
-          description="令和6年度 広瀬キャンパス行事予定表"
+          description="令和7年度 広瀬キャンパス行事予定表"
         />
 
         <Card
